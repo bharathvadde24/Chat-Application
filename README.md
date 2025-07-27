@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 100305" src="https://github.com/user-attachments/assets/fdf0a843-f143-49bb-87b0-0ec1c941a049" /><<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -22,6 +22,11 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
+<img width="823" height="699" alt="Screenshot 2025-07-25 180209" src="https://github.com/user-attachments/assets/ad677906-b834-44ec-bc94-78350618d0ea" />
+<img width="1358" height="991" alt="Screenshot 2025-07-25 111638" src="https://github.com/user-attachments/assets/c3256e8c-a7fe-4582-ac71-b04b3922d20e" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 100618" src="https://github.com/user-attachments/assets/5c958eee-ee17-497c-9e42-0529d230fb6e" />
+<img width="1916" height="1077" alt="Screenshot 2025-07-25 100406" src="https://github.com/user-attachments/assets/d3559671-7211-46a3-8a45-8ccb84108a3e" />
+<img width="1915" height="1079" alt="Screenshot 2025-07-25 100355" src="https://github.com/user-attachments/assets/6b51a255-0607-4663-ac61-be619f15409f" />
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -39,3 +44,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Chat-Application
 real-time chat app built with Next.js &amp; Appwrite! 🚀
 >>>>>>> 04ce6c81ec0a98c2841556d245dc1fbac288da21
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 100305" src="https://github.com/user-attachments/assets/ad129c4c-974f-4501-bea4-76180c3fb5f6" />
